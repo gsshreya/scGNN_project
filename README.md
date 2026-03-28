@@ -1,3 +1,8 @@
+# Project DS-202 - Graph Neural Networks and Their Applications in Single-Cell RNA Sequencing
+### By GS Shreya and Samarth Bhandary
+
+This is an implementation of scGNN for the project component of the course DS202 at the Indian Institute of Science. This project has been forked from the main scGNN repository and included additional changes such as scripts for preprocessing, testing etc.
+
 # scGNN   
 
 ## About:
