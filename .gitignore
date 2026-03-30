@@ -1,5 +1,16 @@
 data/
 .pyc
 
-DS_202_Project/Experiment2/Data/
+# Ignore all Python bytecode files
+*.pyc
+
+# Also ignore __pycache__ directories (important)
+__pycache__/
+
+DS_202_Project/Experiment3/logs
+DS_202_Project/Experiment3/results_cpu
+DS_202_Project/Experiment3/sc_celseq2
+DS_202_Project/Experiment3/Zhengsort
+DS_202_Project/Experiment3/scripts
 DS_202_Project/Datasets
+
