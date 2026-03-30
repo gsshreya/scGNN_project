@@ -3,6 +3,8 @@
 
 This is an implementation of scGNN for the project component of the course DS202 at the Indian Institute of Science. This project has been forked from the main scGNN repository and included additional changes such as scripts for preprocessing, testing etc.
 
+#### PLEASE NOTE : All files,scripts and instructions to reproduce this are in the directory -> /DS_202_Project. Datasets are publicly available and listed in the project report file in the same directory.
+
 # scGNN   
 
 ## About:
